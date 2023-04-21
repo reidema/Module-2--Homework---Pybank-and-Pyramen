@@ -1,0 +1,6 @@
+-----Financial Analysis-----
+total_months:86
+total: 38382578
+average_change: 7895.282352941176
+greatest_increase_in_profit: 1926159
+greatest_decrease_in_losses: -2196167
